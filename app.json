@@ -9,23 +9,23 @@
       "leecher"
     ],
     "website": "https://github.com/azamaulanaaa/botkaca",
-    "repository": "https://github.com/azamaulanaaa/botkaca",
+    "repository": "https://github.com/royrajan95/botkaca",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
-        "value": "5503927"
+        "value": ""
       },
       "API_HASH": {
         "description": "get this value from https://my.telegram.org",
-        "value": "6f3a051b5da7f5b499cde019d273fca1"
+        "value": ""
       },
       "BOT_TOKEN": {
         "description": "get this value from @BotFather",
-        "value": "5228695074:AAGaVtP4E7GvXDg6kQCecW-OoxGnzshbr5k"
+        "value": ""
       },
       "BOT_PASSWORD": {
         "description": "enter pasword or leave it public",
-        "value": "2aaf1f1b",
+        "value": "",
         "required" : false
       }
     },
